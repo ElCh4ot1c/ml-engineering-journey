@@ -1,0 +1,4 @@
+Feature_A,Feature_B,High_Risk
+1.5,10,True
+MISSING,20,False
+3.8,30,True
